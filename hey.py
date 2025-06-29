@@ -9,7 +9,7 @@ from moviepy.video.fx.all import resize, crop
 # Configuration
 YT_VIDEO_PATH = "yt.mp4"
 TK_VIDEO_PATH = "tk.mp4"
-OUTPUT_PATH = "final_output.mp4"
+OUTPUT_PATH = "final_outputsss.mp4"
 OUTPUT_RESOLUTION = (1080, 1920)
 FONT = "Arial-Bold"
 FONT_SIZE = 60
